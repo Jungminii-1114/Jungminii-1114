@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6B3YwcjQ_bU%26list%3DRD6B3YwcjQ_bU%26start_radio%3D1&theme=stream)](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6B3YwcjQ_bU%26list%3DRD6B3YwcjQ_bU%26start_radio%3D1&theme=stream)
+[![SoundBadge](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6B3YwcjQ_bU%26list%3DRD6B3YwcjQ_bU%26start_radio%3D1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D61Lmk2k542k%26list%3DRD61Lmk2k542k%26start_radio%3D1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpQsF3pzOc54%26list%3DRDpQsF3pzOc54%26start_radio%3D1&theme=stream)](https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6B3YwcjQ_bU%26list%3DRD6B3YwcjQ_bU%26start_radio%3D1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D61Lmk2k542k%26list%3DRD61Lmk2k542k%26start_radio%3D1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpQsF3pzOc54%26list%3DRDpQsF3pzOc54%26start_radio%3D1&theme=stream)
